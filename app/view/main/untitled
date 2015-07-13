@@ -1,5 +1,5 @@
-Ext.define('TutorialApp.view.login.Login', {
-    extend: 'Ext.window.Window',
+Ext.define('TutorialApp.view.main.List', {
+    extend: 'Ext.tab.Panel',
     xtype: 'login',
 
     requires: [
