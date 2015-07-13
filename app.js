@@ -8,7 +8,7 @@ Ext.application({
 
     extend: 'TutorialApp.Application'
     
-    //autoCreateViewport: 'TutorialApp.view.main.Main'
+    autoCreateViewport: 'TutorialApp.view.main.Main'
 	
     //-------------------------------------------------------------------------
     // Most customizations should be made to TutorialApp.Application. If you need to
